@@ -1,0 +1,7 @@
+#player,
+#coin {
+  position: absolute;
+  width: 100px;
+  top: 100px;
+  left: 10opx;
+}
